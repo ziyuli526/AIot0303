@@ -6,6 +6,8 @@ A beautifully designed personal landing page featuring a **real-time live clock*
 #https://ziyuli526.github.io/AIot0303/
 
 
+![Homepage Preview](screenshot.png)
+
 ## ✨ Features
 
 - **Live Digital Clock** — Hours, minutes, and seconds update in real time with smooth flip animations
